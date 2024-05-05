@@ -1,3 +1,3 @@
 ## Data Genie
 
-Data Genie website
+AI Tools
